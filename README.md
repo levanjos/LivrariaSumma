@@ -147,3 +147,4 @@ CREATE TABLE item_venda (
     FOREIGN KEY (id_venda) REFERENCES venda(id_venda),
     FOREIGN KEY (id_livro) REFERENCES livro(id_livro)
 );
+![Diagrama Lógico do Banco de Dados]<img width="935" height="728" alt="image" src="https://github.com/user-attachments/assets/f72bbac5-70fe-4e86-b88f-f3b662cbf051" />
